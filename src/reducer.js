@@ -18,3 +18,4 @@ function capitalize(string) {
 	return string = word.join(" ");
 }
 module.exports = reducer;
+
